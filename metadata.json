@@ -1,0 +1,6 @@
+{
+  "name": "Last Survivor",
+  "description": "Last Survivor: Offline Arena — an offline 3D survival action game with open-world islands, customizable characters, AI opponents, and smooth touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

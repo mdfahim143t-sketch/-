@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Last Survivor</string>
+    <string name="game_subtitle">OFFLINE ARENA</string>
+    <string name="offline_badge">OFFLINE READY • NO INTERNET REQUIRED</string>
+    <string name="action_play">DEPLOY</string>
+    <string name="action_characters">SURVIVORS</string>
+    <string name="action_outfits">ARMORY &amp; GEAR</string>
+    <string name="action_maps">ISLANDS</string>
+    <string name="action_settings">SETTINGS</string>
+    <string name="action_exit">EXIT</string>
+    <string name="mode_solo_survival">Solo Survival</string>
+    <string name="mode_practice">Practice Mode</string>
+    <string name="mode_offline_arena">Offline Arena</string>
+    <string name="exit_dialog_title">Exit Game</string>
+    <string name="exit_dialog_message">Leave Last Survivor: Offline Arena? Your progress and gear are saved locally.</string>
+    <string name="confirm_exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="pause_title">MATCH PAUSED</string>
+    <string name="resume_match">RESUME</string>
+    <string name="restart_match">RESTART</string>
+    <string name="return_lobby">RETURN TO LOBBY</string>
+    <string name="victory_title">VICTORY</string>
+    <string name="defeat_title">ELIMINATED</string>
+    <string name="practice_complete_title">TRAINING COMPLETE</string>
+</resources>
